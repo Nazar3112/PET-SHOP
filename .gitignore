@@ -1,0 +1,10 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+build/
+
+# IDE files
+.idea/
+*.iml
+
+# Others
+*.log
